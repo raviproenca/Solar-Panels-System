@@ -7,7 +7,7 @@ The purpose of the program is to facilitate the interaction between customers in
 
 ---
 
-## ✨ Features  
+## Features  
 
 ### Customers  
 - Registration of new customers on the platform.  
@@ -33,7 +33,7 @@ The purpose of the program is to facilitate the interaction between customers in
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - **Java**: Main programming language used for project development.  
 - **Swing**: GUI library for building the graphical user interface.  
 - **JSON**: Data reading and writing for information persistence (customers, projects, equipment).  Obs: The file (dados.json) doesn't exist until you run the application for the first time.
@@ -41,7 +41,7 @@ The purpose of the program is to facilitate the interaction between customers in
 
 ---
 
-## 🏫 Academic Context  
+## Academic Context  
 This project was developed during the **Object-Oriented Programming (OOP)** course at the **Federal University of Sergipe (UFS)**. The objective was to apply OOP concepts, exception handling, data persistence, and GUI development in a practical application.
 
 ---
@@ -54,7 +54,7 @@ O objetivo do programa é facilitar a interação entre clientes interessados em
 
 ---
 
-## ✨ Funcionalidades  
+## Funcionalidades  
 
 ### Clientes  
 - Cadastro de novos clientes na plataforma.  
@@ -80,7 +80,7 @@ O objetivo do programa é facilitar a interação entre clientes interessados em
 
 ---
 
-## 🛠️ Tecnologias Utilizadas  
+## Tecnologias Utilizadas  
 - **Java**: Linguagem principal utilizada no desenvolvimento do projeto.  
 - **Swing**: Biblioteca gráfica para construção da interface gráfica do usuário (GUI).  
 - **JSON**: Leitura e escrita de dados para persistência das informações (clientes, projetos, equipamentos).  Obs: O arquivo (dados.json) não existe até que você rode a aplicação pela primeira vez.
@@ -88,5 +88,5 @@ O objetivo do programa é facilitar a interação entre clientes interessados em
 
 ---
 
-## 🏫 Contexto Acadêmico  
+## Contexto Acadêmico  
 Este projeto foi desenvolvido durante a disciplina de **Programação Orientada a Objetos (POO)**, na **Universidade Federal de Sergipe (UFS)**. O objetivo foi aplicar os conceitos de POO, tratamento de exceções, persistência de dados e desenvolvimento de interfaces gráficas em uma aplicação prática.
