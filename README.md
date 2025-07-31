@@ -33,14 +33,6 @@ The purpose of the program is to facilitate the interaction between customers in
 
 ---
 
-## Technologies Used  
-- **Java**: Main programming language used for project development.  
-- **Swing**: GUI library for building the graphical user interface.  
-- **JSON**: Data reading and writing for information persistence (customers, projects, equipment).  Obs: The file (dados.json) doesn't exist until you run the application for the first time.
-- **Exception Handling**: Implemented to ensure application stability and security during execution.
-
----
-
 ## Academic Context  
 This project was developed during the **Object-Oriented Programming (OOP)** course at the **Federal University of Sergipe (UFS)**. The objective was to apply OOP concepts, exception handling, data persistence, and GUI development in a practical application.
 
@@ -77,14 +69,6 @@ O objetivo do programa é facilitar a interação entre clientes interessados em
   - Clientes cadastrados.  
   - Equipamentos cadastrados (placas solares e inversores).  
   - Relatório financeiro detalhado com custos e lucros.
-
----
-
-## Tecnologias Utilizadas  
-- **Java**: Linguagem principal utilizada no desenvolvimento do projeto.  
-- **Swing**: Biblioteca gráfica para construção da interface gráfica do usuário (GUI).  
-- **JSON**: Leitura e escrita de dados para persistência das informações (clientes, projetos, equipamentos).  Obs: O arquivo (dados.json) não existe até que você rode a aplicação pela primeira vez.
-- **Tratamento de Exceções**: Implementado para garantir a estabilidade e segurança da aplicação durante a execução.
 
 ---
 
